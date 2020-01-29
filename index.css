@@ -14,7 +14,7 @@ a:hover {
 }
 
 .main {
-  background-color: rgb(184, 184, 184);
+  background-color: #f5f5f5;
   width: 95%;
   height: 1px;
   border: 0;
@@ -22,7 +22,7 @@ a:hover {
 }
 
 .side {
-  background-color: rgb(184, 184, 184);
+  background-color: #f5f5f5;
   width: 90%;
   height: 1px;
   border: 0;
@@ -99,6 +99,9 @@ h3 {
 .skills {
   padding: 20px 80px;
   color: #777;
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
 }
 
 .about p {
@@ -107,6 +110,10 @@ h3 {
 }
 
 .experience li {
+  font-size: 13px;
+  margin: 10px 0px;
+}
+.skills li {
   font-size: 13px;
   margin: 10px 0px;
 }
