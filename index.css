@@ -1,119 +1,121 @@
 body {
-  margin: 0px;
-  font-family: "PT Sans", sans-serif;
+	margin: 0px;
+	font-family: 'PT Sans', sans-serif;
 }
 
 a {
-  color: #777;
-  text-decoration: none;
+	color: #777;
+	text-decoration: none;
 }
 
 a:hover {
-  color: black;
-  font-weight: 600;
+	color: black;
+	font-weight: 600;
 }
 
 .main {
-  background-color: #f5f5f5;
-  width: 95%;
-  height: 1px;
-  border: 0;
-  margin: 24px auto;
+	background-color: #f5f5f5;
+	width: 95%;
+	height: 1px;
+	border: 0;
+	margin: 24px auto;
 }
 
 .side {
-  background-color: #f5f5f5;
-  width: 90%;
-  height: 1px;
-  border: 0;
-  margin: 24px auto;
+	background-color: #f5f5f5;
+	width: 90%;
+	height: 1px;
+	border: 0;
+	margin: 24px auto;
 }
 
 .home {
-  width: 100%;
-  color: #777;
+	width: 100%;
+	color: #777;
 }
 
 .banner {
-  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-watercolor-banner-background-image_69627.jpg);
-  height: 200px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-bottom: 100px;
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-watercolor-banner-background-image_69627.jpg);
+	height: 200px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 100px;
 }
 
 .icon {
-  background-image: url(IMG_0141.JPG);
-  height: 100px;
-  width: 100px;
-  background-position: center;
-  background-size: cover;
-  margin: auto;
-  position: relative;
-  top: 150px;
-  border-radius: 50%;
-  border: 2px solid rgb(226, 201, 164);
-  box-shadow: 0px 3px 18px -6px black;
+	background-image: url(IMG_0141.JPG);
+	height: 100px;
+	width: 100px;
+	background-position: center;
+	background-size: cover;
+	margin: auto;
+	position: relative;
+	top: 150px;
+	border-radius: 50%;
+	border: 2px solid rgb(226, 201, 164);
+	box-shadow: 0px 3px 18px -6px black;
 }
 
 h1 {
-  text-align: center;
-  font-weight: 400;
-  color: #777;
+	text-align: center;
+	font-weight: 400;
+	color: #777;
 }
 
 h2 {
-  font-weight: 400;
-  font-size: 18px;
+	font-weight: 400;
+	font-size: 18px;
 }
 
 h3 {
-  font-weight: 600;
-  font-size: 15px;
-  margin-top: 30px;
+	font-weight: 600;
+	font-size: 15px;
+	margin-top: 30px;
 }
 
 .ega {
-  height: 20px;
-  width: 20px;
+	height: 20px;
+	width: 20px;
 }
 
 .home p {
-  text-align: center;
+	text-align: center;
 }
 
 .home ul {
-  display: flex;
-  justify-content: center;
-  padding: 10px 0px 15px 0px;
+	display: flex;
+
+	justify-content: center;
+	padding: 10px 0px 15px 0px;
 }
 
 .home ul li {
-  list-style: none;
-  padding: 0px 5px;
+	list-style: none;
+
+	padding: 0px 5px;
 }
 
 .about,
 .experience,
 .skills {
-  padding: 20px 80px;
-  color: #777;
-  max-width: 1200px;
-  width: 100%;
-  margin: auto;
+	padding: 20px 80px;
+	color: #777;
+	max-width: 1200px;
+	margin: auto;
 }
 
 .about p {
-  padding: 10px 0px;
-  font-size: 13px;
+	padding: 10px 0px;
+	font-size: 13px;
 }
 
 .experience li {
-  font-size: 13px;
-  margin: 10px 0px;
+	font-size: 13px;
+	width: 100%;
+	margin: 10px 0px;
 }
 .skills li {
-  font-size: 13px;
-  margin: 10px 0px;
+	font-size: 13px;
+	margin: 10px 0px;
 }
